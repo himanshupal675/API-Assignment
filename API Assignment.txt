@@ -1,0 +1,62 @@
+Answer 1:====>
+   API stands for application programming interface, which is a set of definitions and protocols for building and integrating application software.
+    APIs are used in web applications to connect user-facing front ends with critical back-end functionality and data. APIs are used to deliver material by streaming services such as Spotify and Netflix. APIs are used by automakers such as Tesla to provide software upgrades.
+   The Google Maps API and Twitter API may be among the most widely used API examples, but most software-as-a-service (SaaS) providers offer APIs that let developers write code that posts data to and retrieves data from the provider's site as well.
+   
+Answer 2:====>
+
+Advantage of API:=>
+
+  1. Applications: Access to APIs ensures more flexibility in information-transfer processes.
+  2. Reach: APIs let you create layers in apps in order to distribute information to different audiences.
+  3. Customization: Furthermore, it can serve as a solution to create different experiences for users, letting protocols,               functions, and commands be adapted according to specific demands.
+  4. Efficiency: When you have content that is automatically published and made available on different channels simultaneously,         APIs allow for more efficient data distribution.
+  5. Adaptability: One of the greatest benefits of APIs is the ability it has to adapt to changes through data migration and             flexibility of services.
+  
+ Disadvantage of API:=>
+ 
+ 1. API load testing does not simulate real users interacting with elements of your webpage.
+ 2. It doesn’t give you an idea of how user-friendly your application is.
+ 3. It doesn’t measure front-end performance or how quickly pages render in different browsers.
+ 4. API load testing doesn’t run client-side scripts.
+ 
+ Answer 3:====>
+     Web API is an API as the name suggests, it can be accessed over the web using the HTTP protocol. It is a framework that helps you to create and develop HTTP based RESTFUL services. The web API can be developed by using different technologies such as java, ASP.NET, etc. Web API is used in either a web server or a web browser. Basically Web API is a web development concept. It is limited to Web Application’s client-side and also it does not include a web server or web browser details. If an application is to be used on a distributed system and to provide services on different devices like laptops, mobiles, etc then web API services are used. Web API is the enhanced form of the web application.
+     Both APIs and web services are technologies that enable the transfer of data between separate software applications. API is an interface that exposes an application's data to outside software, whereas web applications are one type of API with stricter requirements.
+     
+ Answer 4:=====>
+ 
+ REST:==>
+      REST was designed specifically for working with components such as media components, files, or even objects on a particular hardware device. Any web service that is defined on the principles of REST can be called a RestFul web service. A Restful service would use the normal HTTP verbs of GET, POST, PUT and DELETE for working with the required components. REST stands for Representational State Transfer.
+ 
+ SOAP:==>
+      SOAP is a protocol which was designed before REST and came into the picture. The main idea behind designing SOAP was to ensure that programs built on different platforms and programming languages could exchange data in an easy manner. SOAP stands for Simple Object Access Protocol.
+      
+Shortcomings of SOAP.
+The following are the disadvantages of SOAP.
+
+1. Slow : SOAP uses the XML format which needs to be parsed and is lengthier too which makes SOAP slower than CORBA, RMI or IIOP.
+2. WSDL Dependence : It depends on WSDL and does not have any standardized mechanism for dynamic discovery of the services.
+   
+Answer 5:====>
+
+Differentiating between SOAP API and REST API:=>
+
+REST API:
+
+  1. Relies on REST (Representational State Transfer) architecture using HTTP.
+  2. Generally transports data in JSON. It is based on URI. Because REST follows
+  3. stateless model, REST does not enforces message format as XML or JSON etc.
+  4. It works with GET, POST, PUT, DELETE
+  5. Works over HTTP and HTTPS
+  6. Less structured -> less bulky data
+  7. Designed with mobile devices in mind
+SOAP API:
+  
+1. Relies on SOAP (Simple Object Access Protocol)	    
+Transports data in standard XML format.         	                                                         
+Because it is XML based and relies on SOAP, it works with WSDL	        
+Works over HTTP, HTTPS, SMTP, XMPP	                 
+Highly structured/typed	                               
+Designed with large enterprise applications in mind	            
+
